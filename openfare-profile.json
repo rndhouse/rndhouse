@@ -2,8 +2,9 @@
   "openfare-profile": {
     "unique-id": "797f003a-3358-4bd2-bc24-c239ad2bf5de",
     "payment-methods": {
-      "paypal": {
-        "email": "rndhouse@protonmail.com"
+      "btc-lightning": {
+        "keysend": null,
+        "lnurl": "hip"
       }
     }
   }
