@@ -4,7 +4,7 @@
     "payment-methods": {
       "btc-lightning": {
         "keysend": null,
-        "lnurl": "hip"
+        "lnurl": "fakelnurl"
       }
     }
   }
