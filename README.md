@@ -2,7 +2,7 @@
 
 I mostly work on Rust systems, software supply-chain review, AI-assisted development, and security-adjacent tooling.
 
-Background in physics, complex systems, and research software; past work across trading infrastructure, bioinformatics, satellite telemetry, succinct data structures, and evolutionary ML.
+Background in physics, complex systems, and research software; past work across trading infrastructure, bioinformatics, satellite telemetry, succinct data structures, and machine learning research.
 
 ## Current Focus
 
