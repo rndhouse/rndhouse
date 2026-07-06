@@ -1,8 +1,8 @@
 # rndhouse
 
-Building Rust systems for software supply-chain review, AI-assisted development, and security-adjacent tooling.
+I mostly work on Rust systems, software supply-chain review, AI-assisted development, and security-adjacent tooling.
 
-Earlier work spans trading automation, large-scale data validation, statistical signal analysis, satellite telemetry, bioinformatics, succinct data structures, and evolutionary ML.
+Background in physics, complex systems, and research software; past work across trading infrastructure, bioinformatics, satellite telemetry, succinct data structures, and evolutionary ML.
 
 ## Current Focus
 
